@@ -4,6 +4,7 @@
 <!-- [![Linkedin Badge](https://img.shields.io/badge/-Orel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/soon/)](https://www.linkedin.com/in/soon/) -->
 
 
+
 ## About Me 👨‍💻
 
 I'm currently wrapping up my final year in IT engineering at [Université de Technologie de Troyes](https://www.utt.fr/).
@@ -23,6 +24,10 @@ As I near graduation, I'm eager to bring my passion for tech, data, and AI into 
 
 <br />
 So that's me in a nutshell! Thanks for stopping by my corner of GitHub!
+
+<br />
+
+![Orel's GitHub stats](https://github-readme-stats.vercel.app/api?username=oreldx&theme=aura)&nbsp;&nbsp;&nbsp;&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oreldx&show_icons=true&theme=aura)
 
 
 
