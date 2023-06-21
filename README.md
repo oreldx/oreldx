@@ -1,6 +1,4 @@
-<p align="center"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./img/hero.jpg" /></p>
-<br />
-
+<p align="center"><img width="100%" alt="Hello, I'm Orel!" src="./img/hero.jpg" /></p>
 
 <!-- [![Twitter Badge](https://img.shields.io/badge/-@orel-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/soon)](https://twitter.com/soon)  -->
 <!-- [![Linkedin Badge](https://img.shields.io/badge/-Orel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/soon/)](https://www.linkedin.com/in/soon/) -->
