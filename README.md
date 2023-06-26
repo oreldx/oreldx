@@ -27,7 +27,7 @@ So that's me in a nutshell! Thanks for stopping by my corner of GitHub!
 
 <br />
 
-![Orel's GitHub stats](https://github-readme-stats.vercel.app/api?username=oreldx&theme=aura)&nbsp;&nbsp;&nbsp;&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oreldx&show_icons=true&theme=aura)
+![Orel's GitHub stats](https://github-readme-stats.vercel.app/api?username=oreldx&theme=aura)&nbsp;&nbsp;&nbsp;&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oreldx&show_icons=true&theme=aura&hide=jupyter%20notebook)
 
 
 
