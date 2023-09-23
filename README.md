@@ -14,6 +14,18 @@
 
 </div>
 
+<div align="center"> 
+  <a href="mailto:aurelien.dureux+gh@proton.me">
+    <img src="https://img.shields.io/badge/Mail-333333?style=for-the-badge&logo=protonmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/dureuxaur%C3%A9lien/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://www.oreldx.dev" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=sqlite&logoColor=white" target="_blank" />
+  </a>
+</div>
+
 
 ## Things I'm passionate about 🔥
 <div align="center">
