@@ -42,11 +42,30 @@
 
 
 ## Languages-Frameworks-Tools ⚒️
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=py,react,svelte,tailwind,js,html,css,mysql" /><br>
-    <img src="https://skillicons.dev/icons?i=git,docker,selenium,linux,vscode,figma,pr,ps,raspberrypi" />
-</div>
-
+### Backend
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,php,c,mysql,bash,sqlite,selenium" />
+  </div>
+  
+### Frontend
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=svelte,react,js,html,css,bootstrap,tailwind" />
+  </div>
+  
+### Tools
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=docker,aws,git,github,linux,vscode,vite" />
+  </div>
+  
+### Softwares
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=figma,blender,ps,pr,ae,ai" />
+  </div>
+  
+### Others
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
+  </div>
 
 ## Stats ⚡
 <br>
