@@ -51,7 +51,7 @@
 ## Stats ⚡
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-stats-9sm6mgw60-oreldev-protonme.vercel.app/api/top-langs/?username=oreldx&show_icons=true&theme=aura&count_private=true&hide=jupyter%20notebook,C%2B%2B,C" alt="readme stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=oreldx&show_icons=true&theme=aura&count_private=true&hide=jupyter%20notebook,C%2B%2B,C" alt="readme stats"/>
 </div>
 
 ## I'm Open to Opportunities! 🌟
