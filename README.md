@@ -44,12 +44,12 @@
 ## Languages-Frameworks-Tools ⚒️
 ### Backend
   <div align="center">
-    <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,php,c,mysql,bash,sqlite,selenium" />
+    <img src="https://skillicons.dev/icons?i=py,laravel,flask,pytorch,tensorflow,php,c,mysql,bash,sqlite,selenium" />
   </div>
   
 ### Frontend
   <div align="center">
-    <img src="https://skillicons.dev/icons?i=svelte,react,js,html,css,bootstrap,tailwind" />
+    <img src="https://skillicons.dev/icons?i=vue,svelte,react,js,html,css,bootstrap,tailwind" />
   </div>
   
 ### Tools
