@@ -8,9 +8,7 @@
 
   🏫 I'm currently wrapping up my **final year in IT engineering at [Université de Technologie de Troyes](https://www.utt.fr/)**
  
- 🔭 I’m currently working on **Autonomous Social Media Accounts**
- 
- 🌱 I’m currently learning **Generative AI usage**
+ 🔭 I’m currently working on **Autonomous Social Media Accounts** with **Generative AI usage** 🌱
 
 </div>
 
@@ -44,34 +42,28 @@
 ## Languages-Frameworks-Tools ⚒️
 ### Backend
   <div align="center">
-    <img src="https://skillicons.dev/icons?i=py,laravel,flask,pytorch,tensorflow,php,c,mysql,bash,sqlite,selenium" />
+    <img src="https://skillicons.dev/icons?i=py,laravel,flask,php,c,mysql,bash" />
   </div>
   
 ### Frontend
   <div align="center">
-    <img src="https://skillicons.dev/icons?i=vue,svelte,react,js,html,css,bootstrap,tailwind" />
+    <img src="https://skillicons.dev/icons?i=vue,svelte,react,js,html,css,tailwind" />
   </div>
   
 ### Tools
   <div align="center">
-    <img src="https://skillicons.dev/icons?i=docker,aws,git,github,linux,vscode,vite" />
+    <img src="https://skillicons.dev/icons?i=docker,aws,git,github,linux,vscode" />
   </div>
   
 ### Softwares
   <div align="center">
-    <img src="https://skillicons.dev/icons?i=figma,blender,ps,pr,ae,ai" />
+    <img src="https://skillicons.dev/icons?i=figma,blender,ps,pr,ai" />
   </div>
   
 ### Others
   <div align="center">
     <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
   </div>
-
-## Stats ⚡
-<br>
-<div align=center>
-  <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=oreldx&show_icons=true&theme=aura&count_private=true&hide=jupyter%20notebook,C%2B%2B,C" alt="readme stats"/>
-</div>
 
 ## I'm Open to Opportunities! 🌟
 
