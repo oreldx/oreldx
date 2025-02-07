@@ -6,9 +6,9 @@
 ## About Me 👨‍💻
 <div align="center">
 
-  🏫 I'm currently wrapping up my **final year in IT engineering at [Université de Technologie de Troyes](https://www.utt.fr/)**
- 
- 🔭 I’m currently working on **Autonomous Social Media Accounts** with **Generative AI usage** 🌱
+🚀 Full-stack Web Engineer at [Namkin](https://namkin.fr/) | Crafting tailored web solutions for industrial B2B challenges with an agile and client-focused approach.
+
+ 🔭 I’m currently working on **Videos production for Autonomous Social Media Accounts** with **Generative AI usage** 🌱
 
 </div>
 
