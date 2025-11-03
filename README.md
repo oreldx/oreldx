@@ -28,7 +28,7 @@
 ## Things I'm passionate about 🔥
 <div align="center">
  
-  **3D printer** 🖨️ | **FPV drone** 🛸 | **Triathlon** 🏃‍♂️🚴‍♂️🏊‍♂️
+  **3D printer** 🖨️ | **Triathlon** 🏊‍♂️ 🚴‍♂️ 🏃‍♂️ | **FPV drone** 🛸
   
   (_Any side projects with valuable ideas 💡_) 
     
