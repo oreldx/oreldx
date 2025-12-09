@@ -6,9 +6,9 @@
 ## About Me 👨‍💻
 <div align="center">
 
-🚀 Full-stack Web Engineer at [Namkin](https://namkin.fr/)
+🚀 Software Engineer (Full-Stack Web Development)
 
- 🌱 I’m currently working on **YT video workflow & Generative Art** 
+ 🌱 I’m currently working on **Generative Art & YT video workflow** 
 
 </div>
 
